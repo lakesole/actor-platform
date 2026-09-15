@@ -1,0 +1,27 @@
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: white;
+    color: #1e293b;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 20px;
+    background-color: white;
+    
+}
+
+.postList {
+    list-style: none;
+    padding: 0;
+}
+
+.postItem {
+    padding: 14px;
+    border-bottom: 1px solid #e2e8f0;
+}
